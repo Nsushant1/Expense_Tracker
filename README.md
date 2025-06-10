@@ -1,7 +1,9 @@
-Overview
+# Expense Tracker System
+## Overview
+
 This Expense Tracker System is a PHP-based web application that helps users manage their personal finances by tracking income and expenses. The system provides features for recording transactions, categorizing spending, generating reports, and visualizing financial data.
 
-Features
+## Features
 User Authentication: Secure login/registration system
 
 Transaction Management: Add, edit, and delete income/expense records
@@ -16,7 +18,7 @@ Data Visualization: Charts and graphs for better financial insights
 
 Responsive Design: Works on desktop and mobile devices
 
-Requirements
+## Requirements
 Web server (Apache, Nginx, etc.)
 
 PHP 7.4 or higher
